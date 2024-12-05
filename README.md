@@ -1,7 +1,6 @@
-# TASK_jeonbuk
----
 제 2회 전북청년빅데이터 경진대회 군산시장상 수상
-- 과제현안해결 부분
+---
+- 과제현안해결 부분 입상
 ![image](https://github.com/user-attachments/assets/79096e2e-3c69-4c00-a69c-6e077784a574)
 
 ---
