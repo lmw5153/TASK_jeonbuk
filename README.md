@@ -17,3 +17,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/a96f0ee5-2df5-4331-9332-335936d0f24f)
+
+
+---
+[전북청년경진대회_강철바우[이민우].pdf](https://github.com/user-attachments/files/18019910/_.pdf)
