@@ -2,7 +2,7 @@
 ---
 제 2회 전북청년빅데이터 경진대회 군산시장상 수상
 
-![image](https://github.com/user-attachments/assets/272dd98d-ad63-4ff0-b8e1-b7230073bee3)
+![image](https://github.com/user-attachments/assets/79096e2e-3c69-4c00-a69c-6e077784a574)
 
 ---
 `-` 발표 주제 : 공공데이터를 활용한 불법주정차데이터 통계적 분석과 문제해결
